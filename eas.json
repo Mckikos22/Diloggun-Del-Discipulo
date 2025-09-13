@@ -4,8 +4,6 @@
   },
   "build": {
     "preview-apk": {
-      "node": "18.17.0",
-      "npm": true,
       "android": { "buildType": "apk"
       }
     },
