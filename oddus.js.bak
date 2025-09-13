@@ -1,0 +1,34 @@
+// data/oddus.js
+// NOTE: Replace placeholder refranes with your real content.
+export const ODDUS = {
+  "Okana Tonti Ogunda": {
+    refranes: [
+      "El testarudo vive en el desierto",
+      "El triunfo final le corresponde a Dios",
+      "Si va a cortar hierba, afile el machete"
+    ]
+  },
+  "Okana Tonti Iroso": {
+    refranes: [
+      "A la tierra que fueres haz lo que vieres",
+      "El que mucho habla mucho yerra",
+      "El que persevera triunfa"
+    ]
+  }
+};
+
+// Optional: map orisha roles within a specific odduToyale
+export const ORISHA_ROLES = {
+  "Okana Tonti Ogunda": {
+    "Obatalá": "garante del balance y moderación del habla",
+    "Eleguá": "abridor de caminos y pruebas"
+  }
+};
+
+// Solutions based on outcome
+export const SOLUTION_TEMPLATES = {
+  "ire": "Conserva la ruta: reconoce dónde hay agua (recursos), comparte méritos y consolida alianzas.",
+  "osogbo": "Cierra la boca al exceso, repara el daño causado y cumple deudas espirituales.",
+  "ire:ire ariku": "Honra a los mayores y refuerza salud con baños y oración.",
+  "osogbo:ofo": "Evita pérdidas: silencio estratégico, gratitud a Eleguá y restitución donde haya deuda."
+};
