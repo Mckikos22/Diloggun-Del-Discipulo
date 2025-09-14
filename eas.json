@@ -1,6 +1,8 @@
 {
   "cli": {
-    "version": ">= 11.0.0"
+    "version": ">= 11.0.0",
+    "appVersionSource": "remote",
+    "projectId": "6b694beb-xxxxxxxxxxxxxxxxxxxx" 
   },
   "build": {
     "preview-apk": {
