@@ -12,6 +12,7 @@
     },
     "ios": {
       "supportsTablet": true
+      "bundleIdentifier": "com.mckikos22.diloggun"
     },
     "android": {
       "adaptiveIcon": {
