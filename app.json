@@ -25,6 +25,9 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/favicon.png"
+    },
+    "eas": {
+      "projectId": "6b694beb-xxxxxxxxxxxxxxxxxxxx
     }
   }
 }
