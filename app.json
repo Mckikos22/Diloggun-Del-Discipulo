@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
       "bundleIdentifier": "com.mckikos22.diloggun"
     },
     "android": {
